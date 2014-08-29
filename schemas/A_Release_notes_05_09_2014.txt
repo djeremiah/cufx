@@ -1,0 +1,38 @@
+CUFX Version 3.0 Schemas
+Initial Publication January 24th, 2014
+
+Status :  Release for Comment 		
+Status Date: May 9th, 2014
+  
+For questions, comments or issues please respond to email: info@cufxstandards.com
+
+Please provide the following information:
+
+Responding Organization:   
+Contact Name:
+Contact Phone number:  	  
+Contact Email address:
+Response Date: 
+Responding Organization tracking reference (if applicable): 
+Name of Specification or XSD member:  
+Issue or Observation:
+Your expectation or recommendation to resolve:
+
+Release notes
+01/24/2014 - Schemas released for comment.
+01/28/2014 - Updates applied for BillPayee, BillPayeeFilter, BillPaymentFilter, BillPaymentMessage, BillPaymentOccurence, BillPaymentRecurring.
+05/09/2014 - The following xsds were removed & consolidated 
+BillPaymentMessage 			>> 	BillPaymentOccurrenceMessage or 	BillPaymentReoccurringMessage
+RemoteDepositPostRequest     	>>  	RemoteDeposit
+RemoteDepositPostRequestMessage	>> 	RemoteDepositMessage
+RemoteDepositPostResponse		>>	RemoteDeposit
+RemoteDepositRequest			>>	RemoteDeposit 
+RemoteDepositRequestMessage		>>	RemoteDepositMessage
+RemoteDepositResponse			>>	RemoteDeposit
+New:
+RemoteDeposit
+RemoteDepositFilter
+RemoteDepositMessage
+
+ 
+
